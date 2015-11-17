@@ -1,0 +1,23 @@
+name: appstest
+favicon: null
+layout_spectrum: 0.9865551337134093
+typography_spectrum: 0.37810720945708454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16484086052514613
+  lightness: 0.1698101491201669
+  saturation: 0.5190048436634243
+  rhythmicContrast: 0.6254182131960988
+purpose: []
